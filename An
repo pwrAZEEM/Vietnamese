@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Phuc Off An</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #DA251D; /* Vietnamese flag red */
+      color: #FFFF00; /* Yellow text */
+      font-family: 'Arial', sans-serif;
+      font-size: 5rem;
+      text-align: center;
+      font-weight: bold;
+      flex-direction: column;
+    }
+    .emoji {
+      font-size: 3rem;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <p>🇻🇳 Phuc Off An 🇻🇳</p>
+    <div class="emoji">🔥💀👺💣</div>
+  </div>
+</body>
+</html>
